@@ -1,0 +1,16 @@
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\bin\Debug\net5.0\HotelTask.exe
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\bin\Debug\net5.0\HotelTask.deps.json
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\bin\Debug\net5.0\HotelTask.runtimeconfig.json
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\bin\Debug\net5.0\HotelTask.runtimeconfig.dev.json
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\bin\Debug\net5.0\HotelTask.dll
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\bin\Debug\net5.0\HotelTask.pdb
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\obj\Debug\net5.0\HotelTask.csproj.AssemblyReference.cache
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\obj\Debug\net5.0\HotelTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\obj\Debug\net5.0\HotelTask.AssemblyInfoInputs.cache
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\obj\Debug\net5.0\HotelTask.AssemblyInfo.cs
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\obj\Debug\net5.0\HotelTask.csproj.CoreCompileInputs.cache
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\obj\Debug\net5.0\HotelTask.dll
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\obj\Debug\net5.0\refint\HotelTask.dll
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\obj\Debug\net5.0\HotelTask.pdb
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\obj\Debug\net5.0\HotelTask.genruntimeconfig.cache
+C:\Users\Ramal\Desktop\C# Practics\HotelTask\HotelTask\obj\Debug\net5.0\ref\HotelTask.dll
